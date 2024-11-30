@@ -6,5 +6,5 @@ seaborn
 mlflow
 zenml
 numpy
-basketball-reference-scraper==v1.0.1
+basketball-reference-scraper
 -e .
