@@ -1,4 +1,10 @@
 pandas
 seaborn
 matplotlib
+scikit-learn
+seaborn
+mlflow
+zenml
+numpy
+basketball-reference-scraper==v1.0.1
 -e .
